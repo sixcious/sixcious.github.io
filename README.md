@@ -1,7 +1,7 @@
 # roysix.github.io
 
 ## Information
-This website stores global information about all my applications and extensions. This is primarily for stores that do not support individual (app- or extension-specific) privacy policies, such as the Chrome Web Store.
+This website contains global policy information about all my applications and extensions. This is for stores that do not support individual privacy policies, such as the Chrome Web Store.
 
 ## Remote Code Policy
 This software does *not* use any remote code. All code is included locally in the extension package and goes under review before being published.
